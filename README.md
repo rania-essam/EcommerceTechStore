@@ -3,7 +3,7 @@
 A fully responsive e-commerce web app for tech products built with pure HTML, Tailwind CSS, and Vanilla JavaScript.
 
 ## 🚀 Live Demo
-[View Live Site](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME)
+[View Live Site](https://rania-essam.github.io/EcommerceTechStore/)
 
 ## ✨ Features
 - 🔍 Browse products by category (Phones, Laptops, SmartWatches, Tablets, Accessories)
